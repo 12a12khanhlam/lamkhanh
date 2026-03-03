@@ -7,9 +7,9 @@
      padding: 0px;
      margin: 0px;
      flex: 15%;
-     background: url("imes
+     background: url("images/hula.png") center/100% 100% no-repeat;
     background-color: pink;
-     ưidth: 100%
+     width: 100%
      aspect-ratio: 6 / 1;
 }
 .menu{
@@ -40,6 +40,9 @@
 .footer{
      flex: 10%;
      background-color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
 }
 
 h1 {
