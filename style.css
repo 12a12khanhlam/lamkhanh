@@ -4,8 +4,13 @@
      height: 100vh;
 }
 .header{
+     padding: 0px;
+     margin: 0px;
      flex: 15%;
+     background: url("imes
     background-color: pink;
+     ưidth: 100%
+     aspect-ratio: 6 / 1;
 }
 .menu{
      flex: 5%;
