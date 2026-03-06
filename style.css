@@ -8,8 +8,7 @@
      margin: 0px;
      flex: 15%;
      background: url("images/hula.png") center/100% 100% no-repeat;
-    background-color: pink;
-     width: 100%
+     width: 100%;
      aspect-ratio: 6 / 1;
 }
 .menu{
@@ -22,7 +21,7 @@
      padding: 15px 20px;
      
 }
-.menu hover{
+.menu a: hover{
      background-color: lightblue;
      color: black;
 }
