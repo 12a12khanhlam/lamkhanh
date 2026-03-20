@@ -13,7 +13,7 @@
 }
 .menu{
      flex: 5%;
-    background-color: darkblue;
+    background-color: lightpink;
      display: flex;
      align-items: center;
 }
